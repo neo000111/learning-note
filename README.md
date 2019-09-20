@@ -1,0 +1,2 @@
+# learning-note
+leet code
