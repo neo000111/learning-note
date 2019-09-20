@@ -1,2 +1,2 @@
-# learning-note
-leet code的練習歷程
+# 我的learning-note
+我所有leet code的練習歷程
