@@ -1,2 +1,2 @@
 # learning-note
-leet code
+leet code的練習歷程
